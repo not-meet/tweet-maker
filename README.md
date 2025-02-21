@@ -3,7 +3,7 @@ application made to make tweets for daily updates
 
 work to do-
 
--[] add clerk
+-[x] add clerk
 -[] add convex schema
 -[] add webhook
 -[] make the home page 
